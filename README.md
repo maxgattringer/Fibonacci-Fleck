@@ -2,4 +2,4 @@
 
 Hello GitHub!
 
-Push and 
+Push and fetch.
